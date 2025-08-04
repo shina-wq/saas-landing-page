@@ -148,6 +148,7 @@ img {
 .faq .faq-group .faq-group-header h4 {
     font-weight: 600;
     width: 95%;
+    cursor: pointer;
 }
 .faq .faq-group .faq-group-header i {
     position: absolute;
